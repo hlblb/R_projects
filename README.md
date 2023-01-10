@@ -1,5 +1,5 @@
 ### Perssonal R_projects.
-##### Descrptions and topics as follows.
+##### Descrptions and topics as follows (project # and keywords).
 
 1. Data Visualization, Probability & Statistics (Logistic regression, multiple regression) , Importing & Cleaning Data (Guided).
 
