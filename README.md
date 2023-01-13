@@ -18,3 +18,7 @@
 8. Data Manipulation, Data Visualization, Probability & Statistics, Importing & Cleaning Data (Guided).
 
 9. Case Studies (Guided).
+
+10. Data Manipulation, Probability & Statistics, Case Studies.
+
+11. Data Manipulation, Data Visualization, Importing & Cleaning Data (Guided)
